@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Montserrat;
+    background-color: black;
+    color: white;
+}
+
+.head {
+    height: 100vh;
+    background-color: black;
+    position: relative;
+    color: white;
+}
+
+.text {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+
+.text h1 {
+    font-size: 5em;
+}
+
+.text h2 {
+    font-size: 2.5em;
+}
+
+.grey-p {
+    color: darkgrey;
+}
+
+p {
+    font-size: 2em;
+}
+
+a {
+    color: darkturquoise;
+}
+
+a:hover {
+    color: aqua;
+}
+
+a:active {
+    color: red;
+}
