@@ -5,6 +5,7 @@
  *   Version: v2.0.11
  *   Url: https://github.com/mattboldt/typed.js
  *   License(s): MIT
+ This file is not mine. Author details above 
  * 
  */
 (function webpackUniversalModuleDefinition(root, factory) {
