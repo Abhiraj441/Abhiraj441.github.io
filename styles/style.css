@@ -8,7 +8,7 @@ CopyRight © DevHub 2019
 }
 
 body {
-    font-family: Montserrat;
+
     background-color: black;
     color: white;
 }
@@ -24,7 +24,7 @@ body {
     position: absolute;
     top: 50%;
     left: 50%;
-    margin-right: -50%;
+    margin-right: -5
     transform: translate(-50%, -50%)
 }
 
