@@ -79,3 +79,19 @@ a:active {
    font-family:'Montserrat',sans-serif;
 }
 
+.rightmenu{
+  width:75%;
+  height:100px;
+  float:right;
+}
+
+.rightmenu ul li {
+  font-family:'Montserrat',sans-serif;
+  display:inline-block;
+  list-style:none;
+  font-size:50px;
+  color:white;
+  font:weight:bold;
+  line-height:100px;
+
+    
